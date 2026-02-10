@@ -1,0 +1,39 @@
+header h1,h2{
+    text-align: center;
+
+}
+h2{
+    font-size:larger;
+    font-weight: lighter;
+}
+main button{
+    width: 456px;
+    margin: 11px;
+    height: 150px;
+    border-radius: 15px;
+}
+main{
+width: 58%;
+margin: auto;
+}
+header button{
+    
+    width: 150px;
+    height: 35px;
+    border-radius: 15px;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+}
+footer{
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+}
+h3{
+font-size:larger;
+font-weight: lighter;
+}
+footer button{
+    
+}

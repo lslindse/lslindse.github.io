@@ -1,0 +1,14 @@
+table{
+    width: 30%;
+   background-color: rgb(238, 162, 221);
+   margin: auto;
+}
+table, th, td{
+    border: 1px solid black;
+}
+th, td{
+    padding: 15px;
+}
+th{
+    background-color: rgb(175, 148, 173);
+}

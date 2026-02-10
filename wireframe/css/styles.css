@@ -1,0 +1,44 @@
+div {
+  width: 100%;
+}
+div div{
+  width: 45%;
+  padding: 2.%;
+  float: left;
+  border: solid;
+  
+}
+.card {
+  clear: both;
+}
+.links{
+  clear: both;
+  text-align: center;
+  border: solid;
+             
+}
+h1 {
+  margin: 0%;
+}
+
+a:hover{
+  background-color: rgb(28, 154, 17);
+}
+a{
+  padding: 0px 90px; 
+}
+h1{
+  text-align: center;
+}
+.bottom>a{
+  padding:0px 50px;
+}
+p{
+  font-size:x-large
+}
+h3{
+  text-align: center;
+}
+li{
+  font-size:x-large
+}

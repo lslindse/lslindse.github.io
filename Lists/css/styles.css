@@ -1,0 +1,41 @@
+div {
+    background-color: blueviolet;
+    border: solid;
+    margin-bottom: 25px;
+  }
+  body {
+    width: 1366px;
+    height: 768px;
+    background-color: brown;
+  }
+  h1{
+    background-color: rgb(255, 127, 127);
+    text-align: center;
+    margin: 0px;
+  }
+  h2{
+    background-color: aqua;
+    text-align: center;
+    margin: 0px;
+  }
+  ol{
+    background-color: rgb(205, 255, 213);
+    width: 50%;
+    margin: auto;
+  }
+  hr{
+    width: 50%;
+  }
+  a{
+    background-color: rgb(131, 7, 226);
+    padding: 0px 150px;
+  }
+  a:hover{
+    background-color: aqua;
+    
+  }
+  #section{
+    height: 600px;
+    width: 700px;
+    margin: auto;
+  }

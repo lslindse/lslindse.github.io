@@ -1,0 +1,112 @@
+section.left {
+    float: left;
+    width: 33.33%;
+}
+section.middle {
+    float: left;
+    width: 33.33%;
+}
+section.right {
+    float: left;
+    width: 33.33%;
+}
+a.back {
+    color:white ;
+    background-color: red;
+}
+button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+    font-size: small;
+}
+button.accent {
+    background-color: #fff;
+    color: rgb(16, 15, 15);
+    border: gray;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+    font-size: small;
+}
+nav{
+    
+    font-weight: bold;
+}
+img{
+    width: 400px;
+}
+nav img{
+     width: 50px;
+}
+h4{
+    font-weight: bold;
+    width: 110px;
+    margin: 0;
+    
+}
+.trending *{
+    float: left;
+    padding:0 55px ;
+}
+h1{
+    font-size:xx-large;
+    font-weight: bold;
+   ;
+}
+span{
+    font-weight: bold;
+    color: red;
+}
+div.topright{
+    font-weight: bold;
+}
+span.bold{
+    font-weight: bold;
+}
+div.bottomright{
+    font-weight: bold;
+}
+header img{
+width: 25px;
+}
+div.middlebottom img{
+    width: 110px;
+}
+div.middlebottom div {
+    float: left;
+    padding: 0% 10px;
+
+}
+nav a{
+    padding: 0% 45px;
+    text-decoration: none;
+    color: black;
+}
+header{
+    height: 100px;
+    
+}
+.trending a{
+    text-decoration: none;
+    color: black;
+}
+.middlebottom h3{
+    width: 110px;
+    margin: 0%;
+}
+body{
+    font-family: sans-serif ;
+}
+.left img{
+    width: 350px;
+}
+.right img{
+    width: 350px;
+}
+.middle img{
+    width:450px
+}

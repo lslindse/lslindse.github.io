@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+div {
+    background-color: rgb(206, 167, 244);
+    padding: 5%;
+    width: 60%;
+    margin: auto;
+}

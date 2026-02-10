@@ -1,0 +1,36 @@
+
+h1{
+    text-align: center;
+    height: 4vh;
+}
+h2{
+    margin: 0;
+    float: left;
+    padding: 5% 22%;
+}
+section.top{
+background-color: rgb(38, 115, 183);
+height: 55vh;
+}
+div.diagonal{
+    width: 0px;
+    height: 0px;
+    border-right: 100vw solid transparent;
+    border-bottom: 14vw solid aliceblue; 
+    margin-top: -14vw
+}
+section.bottom{
+    background-color:aliceblue;
+    height: 41vh;
+}
+h1.center{
+    position: absolute;
+    margin: 0;
+    font-size: 15em;
+    top: 35vh;
+    left: 50vw;
+}
+img{
+    float: left;
+    padding: 5% 0 0 15%;
+}
