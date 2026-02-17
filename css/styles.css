@@ -6,11 +6,18 @@ h2{
     font-size:larger;
     font-weight: lighter;
 }
-main button{
+a.btn-ma{
     width: 400px;
     margin: 10px;
     height: 150px;
-    border-radius: 15px;
+    border-radius: 30px;
+    background-color: aquamarine;
+    display: block;
+    float: left;
+}
+a :hover{
+    transform:scale(1.023) ;
+    box-shadow: 3px 6px 6px 0 rgba(0,0,0,.11);
 }
 main{
 width: 1270px;
