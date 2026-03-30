@@ -37,6 +37,7 @@ footer{
     text-align: center;
     width: 36%;
     margin: auto;
+    clear: both;
 }
 h3{
 font-size:larger;
